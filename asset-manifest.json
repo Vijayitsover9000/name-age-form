@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-age-form/static/css/main.cb365b83.css",
+    "main.js": "/name-age-form/static/js/main.954f1280.js",
+    "index.html": "/name-age-form/index.html",
+    "main.cb365b83.css.map": "/name-age-form/static/css/main.cb365b83.css.map",
+    "main.954f1280.js.map": "/name-age-form/static/js/main.954f1280.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb365b83.css",
+    "static/js/main.954f1280.js"
+  ]
+}
