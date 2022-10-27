@@ -1,0 +1,31 @@
+form{
+    padding: 10px;
+    display:flex;
+    flex-direction: column;
+    align-items: left;
+}
+button{
+    box-sizing: inherit;
+    width:8rem;
+    height:2rem;
+    margin-top:10px;
+    font-weight:500;
+    font-size:1rem;
+    color:white;
+    background-color:  rgb(0, 151, 171);
+}
+label{
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-align : left;
+    padding-top:6px;
+}
+input {
+    height:1.5rem;
+}
+@media (max-width:400px) {
+    .button{
+        width: 100%;
+    }
+    
+}
